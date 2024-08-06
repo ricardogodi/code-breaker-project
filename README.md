@@ -24,7 +24,7 @@ The `CodeBreaker.java` application employs arrays to perform dynamic manipulatio
    ```bash
    make compile
    ```
-2.	Run the Program
+2.	**Run the Program**
    ```bash
    make run
    ```
